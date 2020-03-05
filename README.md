@@ -12,7 +12,7 @@ usamos os conceitos em (node) como utilização do padrão MVC,
 criando migrations com Sequelize e usando as Seeds para criar
 um administrador automático no projeto.
 
-Também passando por conceitos com validação JWT - Jason Web Token.
+Também passando por conceitos com validação JWT - Json Web Token.
 
 #
 
