@@ -1,7 +1,8 @@
 ![logo](https://user-images.githubusercontent.com/44880379/75940202-22686500-5e6b-11ea-9a1d-2f61f373398b.png)
 
-<h2> Desafio 2: FastFeet, o início
-⚠️ Etapa 1/4 do Desafio Final ⚠️</h2>
+## Desafio 2: FastFeet, o início
+
+⚠️ Etapa 1/4 do Desafio Final ⚠️
 
 ## 1° Etapa Concluída.
 
@@ -24,7 +25,4 @@ Também passando por conceitos com validação JWT - Json Web Token.
 - Sucrase + Nodemon
 - Eslint + EditorConfig
 - Sequelize(PostgreSQL)
-
-#
-
-Esse projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+- Prettier
