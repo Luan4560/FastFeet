@@ -1,7 +1,7 @@
 import * as Yup from 'yup';
 import User from '../models/User';
 
-class UserController {
+class ProviderController {
   async index(req, res) {
     const schema = Yup.object().shape({
       name: Yup.string().required(),
@@ -73,4 +73,4 @@ class UserController {
   }
 }
 
-export default new UserController();
+export default new ProviderController();
